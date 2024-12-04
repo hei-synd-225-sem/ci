@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
   Test_C_Code:
     runs-on: ubuntu-latest
-    container: ghcr.io/hei-synd-225-sem/sdi-tdd-lab:latest
+    container: ghcr.io/${{ github.repository_owner }}/ese-tdd-lab:latest
     steps:
     - uses: actions/checkout@v3
 

@@ -1,7 +1,7 @@
-# SEm-225 I5 CI/TDD lab
+# ESE CI/TDD lab
 
 ## Abstract
-This repository is used for "CI/TDD" lab of the S.Em. 225 module at HES-SO Valais-Wallis in Sion.
+This repository is used for "CI/TDD" lab of the ESE module at HES-SO Valais-Wallis in Sion.
 
 ## Getting Started
 Fork this repository from the appropriate git source server to have your own working copy. Contribute with your own additions in your own repository.
