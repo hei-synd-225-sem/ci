@@ -1,4 +1,4 @@
-name: 225-SEm TDD
+name: ESE TDD
 run-name: Testing commit ${{ github.sha }} by @${{ github.actor }}
 on: [push, pull_request]
 
